@@ -1,5 +1,9 @@
 .debug{
-    border: 1px solid black;
+    border: 1px solid none;
+}
+
+body>div{
+    background-color: rgb(8, 59, 76);
 }
 
 #console{
